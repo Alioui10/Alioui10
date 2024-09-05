@@ -6,7 +6,6 @@ I am currently a Data scientist student at ENSEEIHT, Toulouse, with a passion fo
 
 Skills: Python (Pandas, scikit-learn, Matplotlib, Plotly, Seaborn), SQL, Java, C,  Power BI, Linux, LaTeX .3 
 
-- 🔭 I’m currently working on this page. 
 
 
 
